@@ -1,3 +1,4 @@
 # Bonjour
-Oui et toi ?
-[lien](https://juliette-pal.github.io/balance/page1)
+Oui et toi ?  
+[lien](/page1)
+
